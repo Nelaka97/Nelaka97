@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hi there I'm Nelaka Dilshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="right"> 
+<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Nelaka97&label=Profile%20views&color=0e75b6&style=flat" alt="nelaka97" /> 
 </p></h2>
 <p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology)</p>
 
 Software Engineer | Full Stack Developer | IT Project Manager | SEO Expert | Entrepreneur | Traveler
 
-I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. Experienced Web designer & Web developer has woked a lot of website developments and web applications in the information technology and services industry. Skilled in C, C++, PHP, Advanced PHP frameworks(Laravel, Codeignitor), Mysql, Javascript, HTML5, CSS3, Bootstrap, React JS & Search Engine Optimisation.
+I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with and experienced Web designer & Web developer has woked a lot of website developments and web applications in the information technology and services industry.
 
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" style="width: 100px;" />
 
