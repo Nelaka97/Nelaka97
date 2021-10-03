@@ -16,18 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there I'm Nelaka Dilshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<b>BSc. (Special Hons) in Information Technology</b>
+<small>Specializing in Information Technology</small>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Nelaka97&label=Profile%20views&color=0e75b6&style=flat" alt="nelaka97" /> 
 </p>
 
 
-I'm a Software Engineer | Full Stack Developer | Innovator | Entrepreneur | Undergraduate | Student
+I'm a Software Engineer | Full Stack Developer | IT Project Manager | Entrepreneur | Traveler
 
-This is the place where I opensource stuff and break things :rofl:
+<!--This is the place where I opensource stuff and break things :rofl:-->
 
 <!--  ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/coder1.gif) -->
-  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" style="width: 100px;" />
+<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" style="width: 100px;" />
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning SEO optimization, NodeJs and React Style Components
