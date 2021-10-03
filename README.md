@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Software Engineer | Full Stack Developer | IT Project Manager | SEO Expert | Entrepreneur | Traveler
 
-I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with and experienced Web designer & Web developer has woked a lot of website developments and web applications in the information technology and services industry.
+I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with and experienced web designer & web developer has woked a lot of website developments and web applications in the information technology and services industry.
 
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" style="width: 100px;" />
 
