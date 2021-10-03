@@ -37,8 +37,8 @@ Software Engineer | Full Stack Developer | IT Project Manager | SEO Expert | Ent
 <!-- - 📫 How to reach me: [@dilshanramesh81](https://twitter.com/dilshanramesh81) -->
 <!-- - ⚡ Fun fact -->
 
-[![Twitter: dilshan97](https://img.shields.io/twitter/follow/dilshan?style=social)](https://twitter.com/dilshanramesh81)
-[![Linkedin: dilshan97](https://img.shields.io/badge/-dilshan97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshan/)](https://www.linkedin.com/in/dilshan-ramesh/)
+[![Twitter: Nelaka97](https://img.shields.io/twitter/follow/dilshan?style=social)](https://twitter.com/dilshanramesh81)
+[![Linkedin: Nelaka97](https://img.shields.io/badge/-dilshan97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakakannangara/)](https://www.linkedin.com/in/nelakakannangara/)
 [![GitHub dilshan97](https://img.shields.io/github/followers/dilshan97?label=follow&style=social)](https://github.com/Dilshan97)
 [![website](https://img.shields.io/badge/PortfolioWebsite-dilshan97.github.io-2648ff?style=flat-square&logo=google-chrome)](https://dilshan97.github.io/)
 
