@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there I'm Nelaka Dilshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<b>BSc. (Special Hons) in Information Technology</b>
+<h2>Hi there I'm Nelaka Dilshan</h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h5>👨‍🎓 BSc. (Special Hons) in Information Technology</h5><br/>
 <small>Specializing in Information Technology</small>
 
 <p align="left"> 
