@@ -37,22 +37,23 @@ Software Engineer | Full Stack Developer | IT Project Manager | SEO Expert | Ent
 <!-- - 📫 How to reach me: [@dilshanramesh81](https://twitter.com/dilshanramesh81) -->
 <!-- - ⚡ Fun fact -->
 
-[![Twitter: Nelaka97](https://img.shields.io/twitter/follow/dilshan?style=social)](https://twitter.com/dilshanramesh81)
+[![GitHub Nelaka97](https://img.shields.io/github/followers/nelaka97?label=follow&style=social)](https://github.com/Nelaka97)
 [![Linkedin: Nelaka97](https://img.shields.io/badge/-dilshan97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakakannangara/)](https://www.linkedin.com/in/nelakakannangara/)
-[![GitHub dilshan97](https://img.shields.io/github/followers/dilshan97?label=follow&style=social)](https://github.com/Dilshan97)
-[![website](https://img.shields.io/badge/PortfolioWebsite-dilshan97.github.io-2648ff?style=flat-square&logo=google-chrome)](https://dilshan97.github.io/)
+[![Twitter: Nelaka97](https://img.shields.io/twitter/follow/nelaka?style=social)](https://twitter.com/nelakadilshan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-dilshan97.github.io-2648ff?style=flat-square&logo=google-chrome)](https://nelaka.mywebdesigner.lk/)
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
