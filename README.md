@@ -30,8 +30,7 @@ I am an energetic, ambitious person who has developed a mature and responsible a
 - 🔭 Currently in last 2 months of my bachelors.
 - 🌱 I’m currently learning NodeJs.
 - 💬 Ask me about anything related to the Search Engine Optimisation
-- 📫 Reach me on Whatsapp +94776497137
-<!-- - 📫 How to reach me: [@dilshanramesh81](https://twitter.com/dilshanramesh81) -->
+- 📫 Reach me on Whatsapp: +94776497137
 <!-- - ⚡ Fun fact -->
 
 [![GitHub Nelaka97](https://img.shields.io/github/followers/nelaka97?label=follow&style=social)](https://github.com/Nelaka97)
