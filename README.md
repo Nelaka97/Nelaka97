@@ -31,7 +31,7 @@ I am an energetic, ambitious person who has developed a mature and responsible a
 - 🌱 I’m currently learning NodeJs.
 - 💬 Ask me about anything related to the Search Engine Optimisation
 - 📫 Reach me on Whatsapp: +94776497137
-<!-- - ⚡ Fun fact sssss-->
+<!-- - ⚡ Fun fact sssssssss-->
 
 [![GitHub Nelaka97](https://img.shields.io/github/followers/nelaka97?label=follow&style=social)](https://github.com/Nelaka97)
 [![Linkedin: Nelaka97](https://img.shields.io/badge/-NelakaKannangara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakakannangara/)](https://www.linkedin.com/in/nelakakannangara/)
