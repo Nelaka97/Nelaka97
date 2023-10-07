@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Nelaka97&label=Profile%20views&color=0e75b6&style=flat" alt="nelaka97" /> 
 </p></h2>
-<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology)<br/>
-<b>👨‍🎓 MESc. in Business Informatics</b></p>
+<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology)</p>p
+<p><b>👨‍🎓 MESc. in Business Informatics</b></p>
 
-Software Engineer | Full Stack Developer | IT Project Manager | SEO Expert | Entrepreneur | Traveler
+Developer | IT Project Manager | SEO Expert | Entrepreneur | Traveler
 
 I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with and experienced web designer & web developer has woked a lot of website developments and web applications in the information technology and services industry.
 
