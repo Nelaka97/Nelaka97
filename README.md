@@ -27,10 +27,6 @@ I am an energetic, ambitious person who has developed a mature and responsible a
 
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" style="width: 100px;" />
 
-- 🔭 Currently in last 2 months of my bachelors.
-- 🌱 I’m currently learning NodeJs.
-- 💬 Ask me about anything related to the Search Engine Optimisation
-- 📫 Reach me on Whatsapp: +94776497137
 <!-- - ⚡ Fun fact sssssssss-->
 
 [![GitHub Nelaka97](https://img.shields.io/github/followers/nelaka97?label=follow&style=social)](https://github.com/Nelaka97)
