@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Nelaka97&label=Profile%20views&color=0e75b6&style=flat" alt="nelaka97" /> 
 </p></h2>
-<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology)</p>
+<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology)<br/>
+<b>👨‍🎓 MESc. in Business Informatics</b></p>
 
 Software Engineer | Full Stack Developer | IT Project Manager | SEO Expert | Entrepreneur | Traveler
 
