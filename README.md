@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hi there I'm Nelaka Kannangara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<span align="left"> 
-<p><b>👨‍🎓 MESc. in Business Informatics</b> - Riga, Latvia 🇱🇻</p>
-<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology) - Malabe, Sri Lanka 🇱🇰</p> 
-</span>
+<p align="left"> 
+<b>👨‍🎓 MESc. in Business Informatics</b> - Riga, Latvia<br/>
+<b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Second Class Upper Division) - Malabe, Sri Lanka 
+</p>
 
 Full Stack Engineer | DevOps | AI Enthusiast | SEO Expert | Traveler
 
