@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi there I'm Nelaka Dilshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2>Hi there I'm Nelaka Kannangara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Nelaka97&label=Profile%20views&color=0e75b6&style=flat" alt="nelaka97" /> 
 </p></h2>
-<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology)</p>
-<p><b>👨‍🎓 MESc. in Business Informatics</b></p>
+<p><b>👨‍🎓 MESc. in Business Informatics</b> - Riga, Latvia 🇱🇻</p>
+<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology) - Malabe, Sri Lanka 🇱🇰</p>
 
 Developer | Support Engineer | DevOps | IT Project Manager | SEO Expert | Traveler
 
