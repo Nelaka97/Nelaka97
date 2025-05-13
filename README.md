@@ -17,20 +17,17 @@ Here are some ideas to get you started:
 
 <h2>Hi there I'm Nelaka Kannangara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Nelaka97&label=Profile%20views&color=0e75b6&style=flat" alt="nelaka97" /> 
-</p></h2>
 <p><b>👨‍🎓 MESc. in Business Informatics</b> - Riga, Latvia 🇱🇻</p>
-<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology) - Malabe, Sri Lanka 🇱🇰</p>
+<p><b>👨‍🎓 BSc. (Special Hons) in Information Technology</b> (Specializing in Information Technology) - Malabe, Sri Lanka 🇱🇰</p> 
+</p></h2>
 
-Developer | Support Engineer | DevOps | IT Project Manager | SEO Expert | Traveler
+Full Stack Engineer | DevOps | AI Enthusiast | SEO Expert | Traveler
 
-A motivated and results-driven IT professional with a passion for leveraging technology to drive organizational success and enhance user experiences. With over 4 years of experience in web development, application support, and project management, I offer a unique blend of technical expertise and exceptional communication skills. My proficiency in managing technical issues, engaging with stakeholders, and thriving under pressure makes me a valuable asset to any team.
-
-I hold a Bachelor's degree in Information Technology (Special Hons) with a Second Class Upper Division and have recently earned a Master's degree in Engineering Sciences in Business Informatics from Riga Technical University, Latvia.
-
-I am currently inspired by and eager to learn more about AI technologies and DevOps. These days, I am actively following courses and completing certifications in key DevOps areas such as version control systems (Git and GitHub), continuous integration and continuous deployment (Jenkins, GitHub Actions, and GitLab CI), configuration management (Ansible and Terraform), containerization and orchestration (Docker and Kubernetes), and cloud platforms (AWS and Microsoft Azure). Additionally, I am enhancing my skills in monitoring and logging (ELK Stack), scripting and automation (Bash/Shell scripting and Python), operating systems and networking (Linux), and integrating security into DevOps practices (DevSecOps).
-
-I am eager to apply my advanced skills and knowledge to create impactful solutions in the industry.
+Experienced Full Stack Developer with 6+ years in designing, developing, and optimizing scalable web
+applications. Proficient in PHP, Laravel, JavaScript (Next.js, Nuxt.js), Python, WordPress, and DevOps
+tools like Docker, Kubernetes, and CI/CD pipelines. Skilled in system architecture, API development,
+and SEO optimization. Passionate about AI-driven solutions and performance optimization for modern
+web applications.
 
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" style="width: 100px;" />
 
