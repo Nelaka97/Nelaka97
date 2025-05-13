@@ -33,10 +33,8 @@ web applications.
 
 <!-- - ⚡ Fun fact sssssssss-->
 
-[![GitHub Nelaka97](https://img.shields.io/github/followers/nelaka97?label=follow&style=social)](https://github.com/Nelaka97)
-[![Linkedin: Nelaka97](https://img.shields.io/badge/-NelakaKannangara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakakannangara/)](https://www.linkedin.com/in/nelakakannangara/)
-[![Twitter: Nelaka97](https://img.shields.io/twitter/follow/NelakaDilshan?style=social)](https://twitter.com/nelakadilshan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-nelaka.mywebdesigner.lk-2648ff?style=flat-square&logo=google-chrome)](https://nelaka.mywebdesigner.lk/)
+[![GitHub Nelaka97](https://img.shields.io/github/followers/nelaka97?label=follow&style=social)](https://github.com/Nelaka97)<br/>
+Linkedin: [![Linkedin: Nelaka97](https://img.shields.io/badge/-NelakaKannangara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakakannangara/)](https://www.linkedin.com/in/nelakakannangara/)
 
 **Programming Languages and Tools:**  
 
@@ -55,9 +53,7 @@ web applications.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
-![Nelaka's github stats](https://github-readme-stats.vercel.app/api?username=Nelaka97&count_private=true&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelaka97&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelaka97&" alt="Nelaka97" /></p>
+
 
 
 
